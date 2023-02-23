@@ -65,7 +65,7 @@ script for the community, instead of for our own needs. This is legit, it is pro
 MIT's legal licence for copyright and distribution issues. Read Legel Licence for more info.
 ____________________________________________________________________________________________
 
-Got any more questions? Ask me on my profile or comment down below!
+Got any more questions? File an issue on github and we'll respond within 24 hours!
 
 
 
