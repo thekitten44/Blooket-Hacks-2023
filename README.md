@@ -1,38 +1,29 @@
 # BlooketHacks
 This is the official updating Blooket hacks section for github. Updates every week with new scripts. 
+ _  _ ____ ____  __ ____ ____ ____    ____ _  _ ____ ____ _  _    _  _ ____ ____ __ _ 
+/ )( (  _ (    \/ _(_  _|  __) ___)  (  __) )( (  __|  _ ( \/ )  / )( (  __|  __|  / )
+) \/ () __/) D (    \)(  ) _)\___ \   ) _)\ \/ /) _) )   /)  /   \ /\ /) _) ) _) )  ( 
+\____(__) (____|_/\_(__)(____|____/  (____)\__/(____|__\_|__/    (_/\_|____|____|__\_)
 
-~~~~~~~~~~~ Why You should use this gui : ~~~~~~~~~~~
--Extremely Fast Loading Time.
--Low Detection Rates
--Includes a complete list of scripts
--Easy To Navigate
--instantaneous Hiding Command
--includes EVERY gamemode
-
-~~~~~~~~~Features of This GUI: ~~~~~~~~~~~~~
-🌎 Global Scipts : 
-- Auto Answer (Toggle)
--Highlight Answers (Toggle)
--Auto Sell Dupes On Open
--Remove Random Name (for classes)
--Sell Duplicates (Cheap or Expensive)
--Spam Buy Blooks
--Enable Limited Gamemodes
--Every Answer Correct
--Get Daily Rewards
--Use Any Blook
--te Unlock
--Use Any Blook
--Unlock Plus Gamemodes
--Box Simulations (testing beta)
-
-🧈 Gold Quest Scripts
-🍞 Cafe Scripts
-💵 Crypto Hack Scripts
-🐱‍🐉 Deceptive Dinos Scripts
-🗼 Tower Defense 1 & 2 Scripts
-+ 🎯 9 More regular GAMEMODES and 1 EXCLUSIVE gamemode!
-
+~~~~~~~~~~~ Why You should use this gui : ~~~~~~~~~~~       ~~~~~~~~~Features of This GUI: ~~~~~~~~~~~~~
+-Extremely Fast Loading Time.                                  🌎 Global Scipts : 
+-Low Detection Rates                                            - Auto Answer (Toggle)
+-Includes a complete list of scripts                            -Highlight Answers (Toggle)
+-instantaneous Hiding Command                                   -Auto Sell Dupes On Open
+                                                                -Remove Random Name (for classes)
+🧈 Gold Quest Scripts                                           -Sell Duplicates (Cheap or Expensive)
+🍞 Cafe Scripts                                                 -Easy To Navigate                                               
+💵 Crypto Hack Scripts                                          -Auto Sell Dupes On Open
+🐱‍🐉 Deceptive Dinos Scripts                                      -Remove Random Name (for classes)
+🗼 Tower Defense 1 & 2 Scripts                                  -Sell Duplicates (Cheap or Expensive)
++ 🎯 9 More regular GAMEMODES and 1 EXCLUSIVE gamemode!         -Spam Buy Blooks
+-Includes EVERY GAMEMODE, even limited ones                     -Enable Limited Gamemodes
+                                                                -Every Answer Correct
+                                                                -Get Daily Rewards
+ 𓂀 𝒮𝓅𝑜𝓃𝓈𝑜𝓇𝑒𝒹 𝒷𝓎 𝒢𝒶𝓂𝑒𝓁𝒾𝓃𝓉™ 𓂀                                 -Use Any Blook                                                                
+𝐑𝐞𝐮𝐬𝐞 𝐨𝐟 𝐭𝐡𝐢𝐬 𝐜𝐨𝐝𝐞 𝐢𝐬 𝐚𝐥𝐥𝐨𝐰𝐞𝐝 𝐚𝐬 𝐥𝐨𝐧𝐠 𝐚𝐬 𝐭𝐡𝐞 𝐚𝐮𝐭𝐡𝐨𝐫𝐬 𝐚𝐫𝐞 𝐜𝐫𝐞𝐝𝐢𝐭𝐞𝐝  -Unlock Plus Gamemodes                                                              
+                                                                -Box Simulations (testing beta)
+                                                                -Highlight Answers (Toggle)
 ~~~~~~~~~~~ How do I use this GUI? ~~~~~~~~~~~~~
 Using this gui is rather simple. 
 Step 1, go to the home page of this repository
@@ -76,3 +67,26 @@ Got any more questions? File an issue on github and we'll respond within 24 hour
 🎓 Side Scripters: Prolax29, Munx, and Lifebelikethatbro
 
 Link for our discord: https://discord.gg/QznzysxvX4 (Join if you need extra assistance from out staff)
+
+ _      _ _          _   _            _____                      _ _                    
+ | |    (_) |        | | | |          |  __ \                    (_) |                   
+ | |     _| | _____  | |_| |__   ___  | |__) |___ _ __   ___  ___ _| |_ ___  _ __ _   _  
+ | |    | | |/ / _ \ | __| '_ \ / _ \ |  _  // _ \ '_ \ / _ \/ __| | __/ _ \| '__| | | | 
+ | |____| |   <  __/ | |_| | | |  __/ | | \ \  __/ |_) | (_) \__ \ | || (_) | |  | |_| | 
+ |______|_|_|\_\___|  \__|_| |_|\___| |_|  \_\___| .__/ \___/|___/_|\__\___/|_|   \__, | 
+                                                 | |                               __/ | 
+                                                 |_|                              |___/                                                 
+    _____         _____                    
+  / ____|       |_   _|                   
+ | (___   ___     | |     ___ __ _ _ __   
+  \___ \ / _ \    | |    / __/ _` | '_ \  
+  ____) | (_) |  _| |_  | (_| (_| | | | | 
+ |_____/ \___/  |_____|  \___\__,_|_| |_| 
+    _____ ______ _______   ____  ______ _______ _______ ______ _____     _____  _____ _____  _____ _____ _______ _____ _ 
+  / ____|  ____|__   __| |  _ \|  ____|__   __|__   __|  ____|  __ \   / ____|/ ____|  __ \|_   _|  __ \__   __/ ____| |
+ | |  __| |__     | |    | |_) | |__     | |     | |  | |__  | |__) | | (___ | |    | |__) | | | | |__) | | | | (___ | |
+ | | |_ |  __|    | |    |  _ <|  __|    | |     | |  |  __| |  _  /   \___ \| |    |  _  /  | | |  ___/  | |  \___ \| |
+ | |__| | |____   | |    | |_) | |____   | |     | |  | |____| | \ \   ____) | |____| | \ \ _| |_| |      | |  ____) |_|
+  \_____|______|  |_|    |____/|______|  |_|     |_|  |______|_|  \_\ |_____/ \_____|_|  \_\_____|_|      |_| |_____/(_)
+                                                                                                                        
+                                                                                                                        
