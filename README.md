@@ -34,15 +34,23 @@ You are all set! A gui should pop up.
 ~~~~~~~~~~Questions~~~~~~~~~~~~~~~~~
 Q: Why isn't the script executing? 
 
-A: This may be because of many factors. Factor 1, you copied the wrong code or you only 
-copied partial code. Factor 2, The script is broken, contact me through gmail or github.
-Factor 3: techical issues. Try rebooting your computer or logging in on blooket.
+A: This may be because of many factors. 
+Factor 1,𝐘𝐨𝐮 𝐜𝐨𝐩𝐢𝐞𝐝 𝐭𝐡𝐞 𝐰𝐫𝐨𝐧𝐠 𝐜𝐨𝐝𝐞 or you only copied partial code. 
+Factor 2, 𝕋𝕙𝕖 𝕤𝕔𝕣𝕚𝕡𝕥 𝕚𝕤 𝕓𝕣𝕠𝕜𝕖𝕟, contact me through gmail or github. My gmail: 
+Ijustescapedyesterday@gmail.com
+Factor 3: 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙄𝙨𝙨𝙪𝙚𝙨. Try rebooting your computer or logging in on blooket to your
+account that is unbanned. Has to be a student account in order to work.
+Factor 4: 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐯𝐞 𝐈𝐬𝐬𝐮𝐞𝐬. Try using another browser (EG: Chrome, Edge Firefox) that could 
+use the inspect element, or check your browser settings for inspect element.
 _________________________________________________________________________________________
 
 Q: Will I get banned for using this?
 
 A: It is highly unlikely for the blooket staff to detect that you are exploiting, but just
-in case, do not over-use the script, meaning not to create unusual patterns on the platform.
+in case, do not over-use the script, meaning not to create unusual patterns on the platform 
+(for example, being number 1 90% of the time, while before you only were number 1 20% of the 
+time. Or, earning full 500 coins for 5 weeks, while before you can't even earn 40 coins in
+a whole week. 
 ____________________________________________________________________________________________
 
 Q: Are you guys trying to hack me? Is this legit?
