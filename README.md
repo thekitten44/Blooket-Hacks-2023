@@ -66,9 +66,7 @@ Got any more questions? File an issue on github and we'll respond within 24 hour
 
 ~~~~~~~~ WARNING: OVER EXPLOITING THE USES OF THESE SCRIPTS Might Result in a Ban in Blooket ~~~~~~~  
 
-👑 Creator of repository: Ijustescaped (me)
-🎩 Main scripter for Gui:  OneMinesraft2  #5372
-🎓 Side Scripters: Prolax29, Munx, and Lifebelikethatbro
+Scripts written by OneMinesraft2
 
 Link for our discord: https://discord.gg/QznzysxvX4 (Join if you need extra assistance from out staff)
 
