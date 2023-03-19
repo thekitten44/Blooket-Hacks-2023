@@ -1,9 +1,9 @@
 # Blooket Hacks (Updated 3/16/2023) Current Status: Working ✔
-This is the official updating Blooket hacks section for github. Updates every week with new scripts. Scripted by Minesraft2
+This is the official updating Blooket hacks section for github. Updates every week with new scripts. 
 █▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█▓▒░𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝙚𝙫𝙚𝙧𝙮 𝙬𝙚𝙚𝙠!░▒▓█▇▅▃▂▃▅▇█▇▅▃▂▃▅▇█
 ~~~~~~~~~~~ Why You should use this gui : ~~~~~~~~~~~       ~~~~~~~~~Features of This GUI: ~~~~~~~~~~~~~
 -Extremely Fast Loading Time.                                  🌎 Global Scipts : 
--Low Detection Rates                                            - Auto Answer (Toggle)
+-Scripted by Minesraft2 to make it customisible                 - Auto Answer (Toggle)
 -Includes a complete list of scripts                            -Highlight Answers (Toggle)
 -instantaneous Hiding Command                                   -Auto Sell Dupes On Open
                                                                 -Remove Random Name (for classes)
